@@ -16,5 +16,6 @@ Glob
 # Object Detection and Visualization
 
 This section contains code for detecting objects using the SAM model and visualizing the results. It includes functions for displaying annotated images with lane markings.
-![Lane Detection Plot](lane_detection_plot.png)
+
+
 
